@@ -1,0 +1,44 @@
+{
+  "lang": "zh-CN",
+  "name": "亦·周",
+  "short_name": "亦·周",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#3c67bd",
+  "background_color": "#3c67bd",
+  "description": "亦·周的一个技术博客 APP",
+  "icons": [
+    {
+      "src": "homeScreen48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "homeScreen72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "homeScreen96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "homeScreen128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "homeScreen144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web",
+      "url": "https://houjinlong.github.io",
+      "id": "houjinlong.github.io"
+    }
+  ]
+}
